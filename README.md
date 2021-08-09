@@ -1,5 +1,5 @@
-##<span style="color:red"> 2021년 8월 9일</span>
-######<span style="color:black"> Vanilla 자바스크립트 타자게임 만들기
+##2021년 8월 9일
+<span style="color:black">###### Vanilla 자바스크립트 타자게임 만들기
 https://www.youtube.com/watch?v=_CsGSE5gwTA
 
 <br>

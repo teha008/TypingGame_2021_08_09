@@ -15,8 +15,6 @@ https://www.youtube.com/watch?v=_CsGSE5gwTA
 5. 남은 시간이 0초가 되면 alert창이 뜨면서 게임 종료 출력
 
 ## 게임 소스
-1. 화면 <br>
-index.html <br>
-3. 디자인 <br>
-css/style.css <br>
+1. 화면 index.html 
+3. 디자인 css/style.css 
 5. 동작 js/main.js 

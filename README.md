@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=_CsGSE5gwTA
 
 <br>
-<img src="./README_img/3.png" width="300px" alt="타이핑게임">
+<img src="./README_img/typing.gif" width="300px" alt="타이핑게임">
 </img>
 
 ## 게임 설명 

@@ -80,7 +80,7 @@ function countDown() {
   time > 0 ? time-- : (isPlaying = false);
   if (!isPlaying) {
     clearInterval(timeInterval);
-    if (time === 0 && score === 0) {
+    if (time === 0) {
       alert("게임 종료");
     }
   }
